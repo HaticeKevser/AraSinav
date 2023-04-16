@@ -1,5 +1,5 @@
 ---
-title: "Faiz Oranları ve Enflasyon Olabilir"
+title: "Faiz Oranları ve Enflasyon Olabilir data sete göre karar vericem"
 author: 
   - Hatice Kevser Akçelik[^1]
 bibliography: ../bibliography/biblio.bib
