@@ -1,5 +1,5 @@
 ---
-title: "Faiz Oranları ve Enflasyon Olabilir data sete göre karar vericem"
+title: "Ülkelerdeki İntihar Oranları ve Ekonomik Durum"
 author: 
   - Hatice Kevser Akçelik[^1]
 bibliography: ../bibliography/biblio.bib
@@ -34,27 +34,16 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 [^1]: 21080374, [Github Repo](https://github.com/HaticeKevser/AraSinav)
 
-# Vize Hakkında Önemli Bilgiler
-
-\colorbox{BurntOrange}{GITHUB REPO BAĞLANTINIZI BU DOSYANIN 35. SATIRINA YAZINIZ!}
-
-**Proje önerisi gönderimi, Github repo linki ile birlikte ekampus sistemine bir zip dosyası yüklenerek yapılacaktır. Sisteme zip dosyası yüklemezseniz ve Github repo linki vermezseniz ara sınav ve final sınavlarına girmemiş sayılırsınız.**
-
-**Proje klasörünüzü sıkıştırdıktan sonra (`YourStudentID.zip` dosyası) 16 Nisan 2023 23:59'a kadar *ekampus.ankara.edu.tr* adresine yüklemeniz gerekmektedir.**
-
-\colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
 
 # Giriş
-Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturulmuştur. Ödevlerinizde, makalelerinizde, sunumlarınızda ve projelerinizde kullandığınız tüm bilgi kaynaklarına atıfta bulunmalısınız. Alıntı ve gönderme yapmak okuyuculara çalışmanızda kullandığınız/başvurduğunuz  kaynaklara ulaşma imkanı sağlar. **Her ne kadar kendi sözlerinizi kullanıyor olsanız da, başkalarına ait fikirleri çalışmanızda aktarıyorsanız bu fikirlerin kaynağını belgelemek zorundasınız. Aksi takdirde akademik intihal yapmış olursunuz.** Yazım konusunda @aydinonat:2007'ye başvurabilirsiniz. 
+Bu proje bazı ülkelerdeki GDP, GDP per capita, CPI, Inflation, population, employment, unemployment, economic growth gibi verileri kullanarak ülkelerdeki intihar oranlarının ekonomileri ile ilgisini analiz etmeye çalışmaktadır. 
 
-
-Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesinlikle içermesi gerekmektedir (doğal olarak ilk bölüm başlığı hariç). Burada kullanılan başlıklar haricinde farklı alt başlıklar da kullanabilirsiniz. Projenizi yazarken bu dosyayı taslak olarak kullanıp içeriğini projenize uyarlayınız.
 
 ## Çalışmanın Amacı
-Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
+Bu çalışmanın amacı gelişmiş ve gelişmemiş ülkelerin ekonomik durumu incelenerek, çeşitli literatür taramasının ardından intihar oranları arasındaki ilişkiyi anlamlandırmaya çalışmaktır. 
 
 ## Literatür 
-Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az dört** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
+[@doi:10.1027/0227-5910/a000487] ' a göre ekonomik durgunluğun ve işsizliğin intihar oranlarını arttırdığına dair güçlü bulguları olsa da, intihar oranlarını açıklamak için tek başına yeterli olmadığını; psikolojik, ailevi, kişisel özellik gibi bir çok etkenin de değerlendirmeye alınması gerektiğini öne sürmektedir.
 
 
 **_Taslakta bu cümleden sonra yer alan hiçbir şey silinmemelidir._**
